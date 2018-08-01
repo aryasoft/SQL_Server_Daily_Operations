@@ -20,3 +20,5 @@ exec [dbo].[FilegroupFreeSpace] 20,0,1 <br/>
 --write out log on your error log with filegroup name, database name and free percentage value<br/>
 --you can see the result on your sql server error log under the management tab
 </p>
+
+<img src="https://github.com/aryasoft/SQL_Server_Daily_Operations/blob/master/Storage/FileGroup/_media/FilegroupFreeSpace.gif" alt="FileGorupFreeSpace Alert Configuration"/>
